@@ -1,0 +1,31 @@
+body {
+  background-color: #d5e1ef;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 20px;
+  width: 300px;
+  padding: 1em;
+  box-shadow: 0 0 50px #0000001a;
+}
+
+.card .qr-code {
+  border-radius: 10px;
+  width: 100%;
+  display: flex;
+}
+
+.description {
+  text-align: center;
+  padding: 1em;
+  font-family: Roboto, sans-serif;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
