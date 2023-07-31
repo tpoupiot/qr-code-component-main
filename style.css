@@ -26,5 +26,8 @@ body {
   padding: 1em;
   text-align: center;
 }
+.description h1 {
+  font-size: 1.3em;
+}
 
 /*# sourceMappingURL=style.css.map */
